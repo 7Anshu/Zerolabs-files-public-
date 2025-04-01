@@ -1,4 +1,30 @@
 ---------------x-----------------x------------------x-----------------x-----------------x-----------------x--------------x-----------------x-----------------x------------------x-----------------x-----------------x-----------------x
+--[[ Read Only License 1.0
+
+The ROL is an open source license for closed source projects to share thoughts on internet.
+
+As simple as dos and don'ts.
+
+YOU CAN:
+
+Clone or download the project
+Read the code using your eyeballs
+Build or run the project
+Try or test the project
+Understanding or learning the implementations of the project
+
+YOU CAN'T:
+
+Make changes or modify the project
+Re-upload the project on the internet
+Re-submit the project to any market place
+Take screenshots from the project
+Copy & paste the files or code to any other project
+Print the code as a physical paper ]]
+---------------x-----------------x------------------x-----------------x-----------------x-----------------x--------------x-----------------x-----------------x------------------x-----------------x-----------------x-----------------x
+
+
+---------------x-----------------x------------------x-----------------x-----------------x-----------------x--------------x-----------------x-----------------x------------------x-----------------x-----------------x-----------------x
 -- Spring Module [View them in differnt file's seperatly if you find any errors]
 ---------------x-----------------x------------------x-----------------x-----------------x-----------------x--------------x-----------------x-----------------x------------------x-----------------x-----------------x-----------------x
 
